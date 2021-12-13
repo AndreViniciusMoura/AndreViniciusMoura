@@ -1,5 +1,5 @@
 ### Hi there, Welcome to my Github! 👋
-#### I'm André Moura, and you are very welcome here!
+#### I'm André Moura!
 
 <!--
 **AndreViniciusMoura/AndreViniciusMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
